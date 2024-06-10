@@ -135,20 +135,24 @@
 ## 주요 기능
 
 - **사진 업로드 및 처리**: 사용자는 웹사이트를 통해 자신의 사진을 업로드할 수 있습니다.
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 <img width="1004" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/7390e345-a61c-4e20-91b4-89dc08074d0a">
 <img width="1004" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/b2810f68-d5a6-45c9-9a62-ab9b942f8bdd">
 <img width="1001" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/67f2b128-0417-4775-994f-127e2780ef5d">
 <img width="1003" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/b4e1703c-73f6-4505-809f-a8e391ad2030">
+</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 <img width="1006" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/b96027f9-6bfb-468f-83df-25818df2fc13">
 <img width="1004" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/6c2248d5-b7af-430a-befe-ca94b5718470">
 <img width="1003" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/3e8baedc-6fdb-4110-8034-c15e821c4aa7">
 <img width="1010" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/81ace54e-86b5-4332-8b54-5b5d6dff00a7">
+</div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
 <img width="1001" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/bc57fa1e-22a0-4e0c-8ddd-9019533dca38">
 <img width="1003" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/3b0cd6ae-4942-4918-9bae-699a98bea3c6">
 <img width="998" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/26e90190-8034-4bac-a1d4-48f5541fd195">
 <img width="1004" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/281c9e58-85d2-458f-81b2-712c41b713a2">
-<img width="1003" alt="image" src="https://github.com/Odangsa/HashTag-FrontEnd-Pwa/assets/53222742/9c067b2d-4d6e-4f5b-b3ef-853a8c4b9514">
-ㅇ
+</div>
 
 
 
@@ -159,5 +163,3 @@
 
 https://www.canva.com/design/DAGGUpn31jw/j7B88OPwOu9Tn0Fv7TtFXQ/edit
 
-
-# hashtag-frontend
